@@ -1,6 +1,6 @@
 ---
 title: "Post: Standard"
-excerpt_separator: "<!--more-->"
+last_modified_at: 2016-03-09
 categories:
   - Blog
 tags:
