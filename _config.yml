@@ -73,10 +73,10 @@ author:
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
-footer:
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:mmmosquitooo@gmail.com"
+footer: false
+#    - label: "Email"
+#      icon: "fab fa-fw fa-envelope"
+#      url: "mailto:mmmosquitooo@gmail.com"
 
 defaults:
   # _posts
