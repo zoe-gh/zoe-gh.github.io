@@ -6,6 +6,7 @@ categories:
 tags:
 - Building Contract
 toc: true
+clasess: wide
 ---
 
 # The General Conditions
