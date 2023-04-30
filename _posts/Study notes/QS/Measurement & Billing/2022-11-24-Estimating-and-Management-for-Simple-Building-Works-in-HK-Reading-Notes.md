@@ -585,44 +585,33 @@ toc: true
 
 #### Site clearance
 
-~~~
-VI(a).2.1 Cutting down trees with girth > 0.6m
-~~~
+> VI(a).2.1 Cutting down trees with girth > 0.6m
 
 - Unit: no.
     - Measured at the height of 1.00m above ground
     - Group by girth 0.60-0.90m, in stages of 0.30m
 - Inclusion: grubbing of roots, disposal of materials, filling of voids
 
-~~~
-VI(a).2.2 Cutting down trees which are not in an open area
-~~~
+> VI(a).2.2 Cutting down trees which are not in an open area
 
 - Measured separately
 
-~~~
-VI(a).2.3 Removal of existing tree stumps
-~~~
+> VI(a).2.3 Removal of existing tree stumps
 
 - Where trees have been cut down by others
 
-~~~
-VI(a).2.4 Site clearance of tall grass, shrubs, bushes and trees <= 0.6m girth
-~~~
+> VI(a).2.4 Site clearance of tall grass, shrubs, bushes and trees <= 0.6m girth
 
 - Measurement: item
 - Description: approx. site area
 
-~~~ 
+> 
 VI(a).2.5 Cutting turf to be preserved
-~~~
 
 - Measurement: m2
 - Description: average depth, method of storage and preservation and location of stacking
 
-~~~
-VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous contractors
-~~~
+> VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous contractors
 
 - Measurement: item
 - Description:
@@ -651,16 +640,12 @@ VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous con
     - temporary support to cables, drain pipes and the like during excavation
     - excavating and backfilling extra working space that is necessary and beyond the working space rule
 
-~~~
-VI(a).3.1 Surface excavation <= 0.20m average depth
-~~~
+> VI(a).3.1 Surface excavation <= 0.20m average depth
 
 - Measurement: m2
 - Exclusion: disposal of excavated soil measured separately
 
-~~~
-VI(a).3.2 Oversite excavation to reduced level
-~~~
+> VI(a).3.2 Oversite excavation to reduced level
 
 - Measurement: m3
     - From existing ground level to the desired reduced level
@@ -668,9 +653,7 @@ VI(a).3.2 Oversite excavation to reduced level
 - Exclusion: disposal of excavated material measured separately
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230217212051.png" width="500" height="">
 
-~~~
-VI(a).3.4-3.7 Excavation for basements, trenches below basement level, foundations, column bases, ground beams and the like
-~~~
+> VI(a).3.4-3.7 Excavation for basements, trenches below basement level, foundations, column bases, ground beams and the like
 
 - Measurement: m3
     - Measure in successive stages of 1.50m
@@ -684,9 +667,7 @@ VI(a).3.4-3.7 Excavation for basements, trenches below basement level, foundatio
     - manholes
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230217211156.png" width="300" height="">
 
-~~~
-VI(a).3.8 Excavation for post holes
-~~~
+> VI(a).3.8 Excavation for post holes
 
 - If post holes <= 0.30m3 
     - Measurement: no.
@@ -696,9 +677,7 @@ VI(a).3.8 Excavation for post holes
     - Measurement: m3
         - Measure in successive stages of 1.50m
 
-~~~
-VI(a).3.9 Excavate trenches for curbs and the like
-~~~
+> VI(a).3.9 Excavate trenches for curbs and the like
 
 - Measurement: m
 - Description
@@ -708,9 +687,7 @@ VI(a).3.9 Excavate trenches for curbs and the like
 - Inclusion: backfilling and disposal included
 - Exclusion: curbs without beds and those on beds area each measured separately
 
-~~~
-VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
-~~~
+> VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
 
 - Measurement: m
 - Inclusion: backfilling and disposal included
@@ -728,9 +705,7 @@ VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
     - if trenches for multiple pipes
         - sizes, numbers and relative positions of the pipes or cables
     
-~~~
-VI(a).4 Extra over any types of excavation - break up and removing breckwork, masonry work and concrete met with in excavation
-~~~
+> VI(a).4 Extra over any types of excavation - break up and removing breckwork, masonry work and concrete met with in excavation
 
 - Each measured separately
     - pavings, surface concrete and the like: m2; thickness stated
@@ -742,9 +717,7 @@ VI(a).4 Extra over any types of excavation - break up and removing breckwork, ma
 
 #### Earthwork support
 
-~~~
-VI(a).5.1 Temporary shoring and supports for sides of excavation into banks for retaining walls with face height > 1.50m
-~~~
+> VI(a).5.1 Temporary shoring and supports for sides of excavation into banks for retaining walls with face height > 1.50m
 
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230303224215.png" width="500" height="">
 - Measurement: item
@@ -756,9 +729,7 @@ VI(a).5.1 Temporary shoring and supports for sides of excavation into banks for 
 
 #### Disposal
 
-~~~
-VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previous contractor
-~~~
+> VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previous contractor
 
 - Measurement: m3
 - Inclusion:
@@ -777,9 +748,7 @@ VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previou
 
 #### Backfilling
 
-~~~
-VI(a).7-9 Backfilling to excavation and filling
-~~~
+> VI(a).7-9 Backfilling to excavation and filling
 
 - Backfilling required after excavation
     - fill to make up levels when the existing level is lower than the formation level
@@ -804,9 +773,7 @@ VI(a).7-9 Backfilling to excavation and filling
 
 #### Hardcore or granular filling
 
-~~~
-VI(a).10 Hardcore or granular filling
-~~~
+> VI(a).10 Hardcore or granular filling
 
 - Hardcore filling
     - material: gravels and crushed stones
@@ -826,9 +793,7 @@ VI(a).10 Hardcore or granular filling
 
 #### Blinding to hardcore surfaces
 
-~~~
-VI(a).12 Blinding to surfaces of hardcore or other filling materials
-~~~
+> VI(a).12 Blinding to surfaces of hardcore or other filling materials
 
 - Blinding layer
     - material: weak concrete, sand, or quarry dust
@@ -844,44 +809,32 @@ VI(a).12 Blinding to surfaces of hardcore or other filling materials
 
 ##### Surface treatments
 
-~~~
-VI(a).13.1-13.3 Formation of slops in fillings, to cuttings or trimming rock to produce fair face
-~~~
+> VI(a).13.1-13.3 Formation of slops in fillings, to cuttings or trimming rock to produce fair face
 
 - Measurement: m2
     - finished surface area of the slope
 
-~~~
-VI(a).13.4 Preparation of existing ground or subsoil areas for application of top soil for turfing
-~~~
+> VI(a).13.4 Preparation of existing ground or subsoil areas for application of top soil for turfing
 
 - Measurement: m2
 - Description: method of preparation
 
-~~~
-VI(a).13.5 Consolidation of sub-grade for roads and pavings
-~~~
+> VI(a).13.5 Consolidation of sub-grade for roads and pavings
 
 - Measurement: m2
 - Description: method of compaction
 
-~~~
-VI(a).13.6 Herbicide, selective weed killer or insecticide treatments
-~~~
+> VI(a).13.6 Herbicide, selective weed killer or insecticide treatments
 
 - Measuremnet: m2
 
 ##### Turfing and grass seeding
 
-~~~
-VI(a).14 Turfing and grass seeding
-~~~
+> VI(a).14 Turfing and grass seeding
 
 - Measurement: follow the Landscaping Section XXII(b)
 
-~~~
-XXII(b).1 Soiling for turing or grass seeding
-~~~
+> XXII(b).1 Soiling for turing or grass seeding
 
 - Measurement: m2
 - Description:
@@ -889,27 +842,21 @@ XXII(b).1 Soiling for turing or grass seeding
     - type of soil
     - method of preparation
 
-~~~
-XXII(b).2 Turfing
-~~~
+> XXII(b).2 Turfing
 
 - Measurement: m2
 - Description:
     - type of grass
     - details of pre-turfing
 
-~~~
-XXII(b).3 Broadcast seeding for grassed areas
-~~~
+> XXII(b).3 Broadcast seeding for grassed areas
 
 - Measurement: m2
 - Description:
     - grass seed mix, rate of application
     - details of pre-seeding fertilisers
 
-~~~
-XXII(b).4 Hydroseeding for grassed areas
-~~~
+> XXII(b).4 Hydroseeding for grassed areas
 
 - Measuement: m2
 - Description:
@@ -918,17 +865,13 @@ XXII(b).4 Hydroseeding for grassed areas
 
 ##### Chunam surfacing
 
-~~~
-VI(a).15 Chunam surfacing to slopes
-~~~
+> VI(a).15 Chunam surfacing to slopes
 
 - Chunam surfacing
     - a slope protection method
     - apply a mixture of lime-cement plaster on the slope surface
 
-~~~
-VI(a).15.1-15.2 Chunam surfacing
-~~~
+> VI(a).15.1-15.2 Chunam surfacing
 
 - Measurement: m2
     - Group
@@ -939,9 +882,7 @@ VI(a).15.1-15.2 Chunam surfacing
 - Inclusion:
     - Scaffolding and hoisting of materials are deemde to be included
 
-~~~
-VI(a).15.3 Formation of weep holes
-~~~
+> VI(a).15.3 Formation of weep holes
 
 - Measurement: nos
 - Description: material, size, length
@@ -950,9 +891,7 @@ VI(a).15.3 Formation of weep holes
 
 ##### Sprayed concrete surfacing
 
-~~~
-VI(a).16 Sprayed concrete to surfaces of slopes
-~~~
+> VI(a).16 Sprayed concrete to surfaces of slopes
 
 - Measurement: m2
 - Description: mix and thickness
@@ -997,9 +936,7 @@ VI(a).16 Sprayed concrete to surfaces of slopes
 
 ##### Concrete in general
 
-~~~
-VII(a).1 Concrete
-~~~
+> VII(a).1 Concrete
 
 - Measurement: m3
     - different concrete mixes measured separately
@@ -1019,9 +956,7 @@ VII(a).1 Concrete
 
 ##### Concrete in beams and slabs
 
-~~~
-VII(a).17 Suspended slabs
-~~~
+> VII(a).17 Suspended slabs
 
 - Measurement: m3
     - slab measured across walls, column and beams
@@ -1035,18 +970,14 @@ VII(a).17 Suspended slabs
     - thickness of slab
         - if coffered and troughed slabs, overall thickness
 
-~~~
-VII(a).M.14 Beams
-~~~
+> VII(a).M.14 Beams
 
 - Measurement: m3
     - beam measured below slabs and between walls
     - horizontal beam
         - sloping <= 15° and sloping > 15° measured separately
 
-~~~
-VII(a).M.13 Shoulders
-~~~
+> VII(a).M.13 Shoulders
 
 - Shoudler
     - Shoulder of higher mix required if concrete grade for walls or columnns is higher than that for slabs and beams
@@ -1056,9 +987,7 @@ VII(a).M.13 Shoulders
 
 ##### Concrete in walls and columns
 
-~~~
-VII(a).22-23 Walls and Columns
-~~~
+> VII(a).22-23 Walls and Columns
 
 - Measurement: m3
     - wall measured between columns or projections
@@ -1070,9 +999,7 @@ VII(a).22-23 Walls and Columns
 
 ##### Concrete in stairs
 
-~~~
-VII(a).24 Concrete in stairs
-~~~
+> VII(a).24 Concrete in stairs
 
 - Measurement: m3
     - all concrete in stairs, including steps, support beams, landings and the like area measured together in the item of stairs
@@ -1082,24 +1009,18 @@ VII(a).24 Concrete in stairs
 
 ##### Concrete in other components
 
-~~~
-VII(a).8-10 Foundation, isolated column bases and pile caps
-~~~
+> VII(a).8-10 Foundation, isolated column bases and pile caps
 
 - Measurement: m3
     - small bases for fencing posts: nos with sizes stated
 
-~~~
-VII(a).4 Thickening to concrete beds under walls, partitions and the like and under channels
-~~~
+> VII(a).4 Thickening to concrete beds under walls, partitions and the like and under channels
 
 - Measurement: m
 - Description: (average) width, thickness
 - Inclusion: extra excavation, disposal, hardcore and formwork
 
-~~~
-VII(a).5-7 Surface water channels, stepped channels to slopes and channels formed in concrete beds
-~~~
+> VII(a).5-7 Surface water channels, stepped channels to slopes and channels formed in concrete beds
 
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309213819.png" width="300" height="">
 - Measurement: m
@@ -1124,9 +1045,7 @@ VII(a).5-7 Surface water channels, stepped channels to slopes and channels forme
     
 ##### Miscellaneous
 
-~~~
-VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreading and levelling
-~~~
+> VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreading and levelling
 
 - e.g. treating surfaces of concrete floor by trowelling or power floating
     - trowelling
@@ -1227,9 +1146,7 @@ VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreadi
 
 ##### Formwork in general
 
-~~~
-VII(d).1 Formwork
-~~~
+> VII(d).1 Formwork
 
 - Measurement: m2
     - Measured to the concrete surfaces of finished structure which require support during casting
@@ -1261,9 +1178,7 @@ VII(d).1 Formwork
 
 ##### Formwork to slabs
 
-~~~
-VII(d).2-3 Soffits of slabs and landings
-~~~
+> VII(d).2-3 Soffits of slabs and landings
 
 - Measurement: m2
     - Measured separately:
@@ -1276,9 +1191,7 @@ VII(d).2-3 Soffits of slabs and landings
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313223917.png" width="300" height="">
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312204858.png" width="400" height="">
 
-~~~
-VII(d).2.1.1.1-2 Formwork to soffits at different heights
-~~~
+> VII(d).2.1.1.1-2 Formwork to soffits at different heights
 
 - Measurement: m2
     - Formwork to soffits with strutting height < 3.5m measured separately in stages of 1.5m
@@ -1286,9 +1199,7 @@ VII(d).2.1.1.1-2 Formwork to soffits at different heights
 - Inclusion:
     - Strutting or propping 
 
-~~~
-VII(d).8 Top formwork
-~~~
+> VII(d).8 Top formwork
 
 - When the slop of a slab is steep (> 15°)
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313224629.png" width="400" height="">
@@ -1298,9 +1209,7 @@ VII(d).8 Top formwork
 
 ##### Formwork to beams
 
-~~~
-VII(d).7 Formwork to sides and soffits of beams
-~~~
+> VII(d).7 Formwork to sides and soffits of beams
 
 - Measurement: m2
     - Side and soffits of beams measured together
@@ -1310,9 +1219,7 @@ VII(d).7 Formwork to sides and soffits of beams
 
 ##### Formwork to walls and columns
 
-~~~
-VII(d).5-6 Formwork to wall faces, columns and the like
-~~~
+> VII(d).5-6 Formwork to wall faces, columns and the like
 
 - Measurement: m2
     - Measured to each face of walls requiring support
@@ -1328,9 +1235,7 @@ VII(d).5-6 Formwork to wall faces, columns and the like
 
 ##### Formwork to stairs
 
-~~~
-VII(d).3a&10 Formwork to soffits of stairs, risers and open strings of stairs
-~~~
+> VII(d).3a&10 Formwork to soffits of stairs, risers and open strings of stairs
 
 - Measurement:
     - Including formwork to soffits of landings, soffits of stairs, risers, and open string
@@ -1349,15 +1254,11 @@ VII(d).3a&10 Formwork to soffits of stairs, risers and open strings of stairs
     - boxing for openings <= 0.50m2 sectional area3
     - holes <= 150mm diameter
 
-~~~
-VII(d).15 Forming holes for pipes, cables and the like, >150mm diamtera
-~~~
+> VII(d).15 Forming holes for pipes, cables and the like, >150mm diamtera
 
 - Measurement: item
 
-~~~
-VII(d).9 & VII(d).16 Forming openings > 0.50m2
-~~~
+> VII(d).9 & VII(d).16 Forming openings > 0.50m2
 
 - Opening > 0.50m2 and <= 1.00m2
     - Boxing for openings applied
@@ -1375,9 +1276,7 @@ VII(d).9 & VII(d).16 Forming openings > 0.50m2
 
 #### Precast concrete
 
-~~~
-VII(e).1 General
-~~~
+> VII(e).1 General
 
 - Measurement: nos
     - units > 2.00m long
@@ -1390,9 +1289,7 @@ VII(e).1 General
     - cast-in accessories
     - concrete composition
 
-~~~
-VII(e).2&5&6 Structural precast units
-~~~
+> VII(e).2&5&6 Structural precast units
 
 - Measurement: nos
     - measured separately:
@@ -1404,9 +1301,7 @@ VII(e).2&5&6 Structural precast units
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313233908.png" width="300" height="">
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313233916.png" width="300" height="">
 
-~~~
-VII(e).3&7&8
-~~~
+> VII(e).3&7&8
 
 - Measurement:
     - measured separately:
@@ -1461,9 +1356,7 @@ VII(e).3&7&8
 
 #### Brick walls and block walls
 
-~~~
-VIII(a).2-5 Brick walls, isolated piers an dwarf walls
-~~~
+> VIII(a).2-5 Brick walls, isolated piers an dwarf walls
 
 - Measurement: m2
 - Description: 
@@ -1478,9 +1371,7 @@ VIII(a).2-5 Brick walls, isolated piers an dwarf walls
         - thickness and different thickness measured separately
         - description includes for all cutting
     
-~~~
-VIII(a).12 Block walls
-~~~
+> VIII(a).12 Block walls
 
 - Measurement: m2
     - measure separately:
@@ -1494,16 +1385,13 @@ VIII(a).12 Block walls
 - Inclusion:
     - filling in hollow bloacks at ends and intersections
 
-~~~
-VIII(a).13 Glass block walls and panels
+> VIII(a).13 Glass block walls and panels
 
 - Measurement: m2
 - Description:
     - kind and size of blocks, bond, mortar mix or joining compound and type of pointing
 
-~~~
-VIII(a).6 Fair face brickwork
-~~~
+> VIII(a).6 Fair face brickwork
 
 - Fair face brickwork
     - brick material left on view with no further finishing
