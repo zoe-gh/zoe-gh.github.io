@@ -5,6 +5,7 @@ categories:
 - QS
 tags: 
 - Measurement & Billing
+toc_sticky: true
 ---
 
 # Building the Project Team
