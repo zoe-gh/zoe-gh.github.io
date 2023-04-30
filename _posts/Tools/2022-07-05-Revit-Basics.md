@@ -1,0 +1,252 @@
+---
+title: "Revit Basics"
+last_modified_at: 2022-07-05
+categories:
+- Tools
+tags: 
+- Revit
+---
+
+### Basics
+
+- Element hierachy
+    - Model elements
+        - Category >> Family >> Type >> Object
+    - Annotation elements
+    - View elements
+- Select
+    - `shift + select` to deselect
+    - `tab` to switch selection
+    - Ribbon - Filter to select current categories
+    - Select toggel - Select under Modify or right bottom
+        - Links
+        - Underlay elements
+        - Pinned elements
+- Project Browser
+    - Double click view elements to go there, level too
+    - Right click parent view to search
+- Navigation
+    - `ZR`: zoom in region
+    - `ZF`: zoom to fit
+    - `ZO`: zoom out 2x
+    - `ZS`: zoom to sheet size (to scale)
+    - `WT`: View - Tile view
+    - `ZA`: zoom all to fit for multiple windows
+- Options
+    - General - View options - Architectural
+    - User interface - Customize double-click setting - Family - Do nothing
+    - File location
+- Temporary dimension 
+    - Two dimensions either side
+    - Can change reference line
+    - Set the default location of reference line
+        - Manage - additional setting - annotation - temporary dimension
+- `space` to rotate elements 90 degrees or flip
+- `tab` to switch selection
+- Snap setting: 
+    - Manage - snap
+    - Shortcut or right click to snap overwrite
+- Load family
+    - Modify - load family - select, can multiple - type catalog - select types
+- Link and import
+    - Link or import CAD file
+        - As an underlying element
+        - Select - modify - query
+            - Check layer
+            - Delete layer
+            - Hide layer in view
+                - Hide/unhide: view - visibility/graphics `VG`
+        - Link
+            - Update if CAD file update
+            - Insert - link CAD - single click and select settings
+                - Color
+                - Create view only
+                    - On - view specific reference info
+                    - Off - model lines
+                - Positioning
+            - Create 3D tepographic geometry
+                - Off create view only
+                - Site plan - massing & site - toposurface 
+                - Create from import - select import instance - select layers
+        - Import (not recommend)
+            - View only, file size big
+            - View - drafting view (not connected to model, can use for detail)
+            - Insert - import CAD
+            - Import - import line weight
+        - Explode
+            - Not recommend
+            - Or create a new revit project, change styles, and copy to the working project
+    - Link Revit project
+        - Insert - link Revit
+        - Property
+            - Reload, unload
+            - Open and unload
+        - Modify to align/rotate to existing model
+    - Manage links
+        - Reference type 
+            - Overlay - not get nested link
+            - Attachment - get nested link
+        - In project browser
+
+### Draw, Modify and Geometry
+
+- Draw
+    - When drawing, also use modify command under ribbon
+    - Line
+    - Rectangle
+    - Indescribed polygon: polygon inside circle
+    - Circumscribed polygon: polygon outside circle
+    - Circle
+    - Star-end-radius arc
+    - Circle-ends arc
+    - Tangent end arc: create based on existing ends
+    - Fillet arc: select existing lines to fillet
+    - Ellipse
+    - Partial ellipse
+    - Pick lines
+- Modify
+    - Aligh `AL`
+        - Align at elevation to change level
+    - Move `MV`
+    - Offset `OF`
+    - Copy `CO`
+    - Rotate `RO`
+        - Place center of rotation
+    - Trim and extend `TR`
+        - Click parts to keep
+    - Trim and extend multiple items
+        - Select reference line, then (cross) select lines to trim
+    - Mirror pick axis `MM`
+    - Mirror draw axis `DM`
+    - Split `SL`
+        - Delet inner segment
+    - Array `AR`
+    - Scale `RE`
+    - Delete `DE`
+- Geometry
+    - Notch: add notch for steel beam and column
+    - Cut/uncut geometry
+    - Join/unjoin geometry, switch join order
+    - Split face
+        - Divid finish of element to apply different materials
+        - Still in one element
+    - Beam/Column joins
+    - Paint: apply material to the face of an element
+    - Wall joins
+    - Demolish
+        - Mark elements as demolished in current phase
+- Constraints
+    - Length constraints
+        - Temp dimension 
+            - Under the dimension - make this temp dimension permanent 
+        - Make permanet dimension directly
+            - Algined dimension `DI`
+        - Select dimension 
+            - Lock to make constraints
+            - EQ to lock
+    - Align constraints
+        - Align - lock
+    - Delet dimension may not delet constraints
+        - Left down - last command - reveal constraints
+- Group
+    - Select - create - create group `GP`
+    - Model group and attached detail group stored separate
+    - Group shown in project browser
+        - Drag or create instance to put group
+    - Select point of group can be reset
+    - Modify
+        - Edit/ungroup group
+        - Attached detail group
+    - Property to create variation
+        - Edit type - duplicate
+    - Select and exclude elements form instance of group
+
+### General workflow
+
+- Project setup
+    - Create from template
+    - Manage - project info; project unit; location
+- Add level `LL`
+    - Checkbox to display or not level annotation
+    - Pickline + offset
+- Add grid `GR`
+    - Grid acts like a plane, shown on layout and elevation
+- Add column `CL`
+    - Architectural or structural
+    - Constraints
+        - Move with grids
+    - Architectural column can merge into other building elements
+    - Structural column
+        - Multiple - at grids/architectural columns
+- Add wall `WA`
+    - Constraints to set height
+    - Location line
+    - Edit wall type
+        - Structure: edit - Preview - View: section
+        - Split region - modify - create layer - assign layer
+    - Sweep and reveal
+        - Sweep add to the wall
+        - Reveal cut away from the wall
+        - In wall type edit
+        - Or in 3D/elevation wall drop-down
+    - Modify
+        - Wall joins
+            - Modify - geometry - wall joins
+            - Butt, miter and square off (if not 90 degrees)
+                - Prev and next to change butt type
+            - Allow and disable join
+        - Wall opening
+            - Modify - edit profile
+        - Attach and detach
+- Add door `DR` and window `WN`
+    - `Space` to flip
+- Add components `CM`
+    - Can flip along wall
+    - Some can choose 2D version only
+- Add floor
+    - Pick walls or draw geometry
+    - Extend into wall
+    - Modify
+        - Edit boundary
+        - Shape editing
+- Add roof
+    - Roof by footprint.
+        - Boundary line
+            - Pick wall
+            - Overhang: extension overhang away from wall
+            - Define slope: slope in which direction
+        - Slope arrow
+            - Change slope along arrow
+        - Shape editing on flat roof
+    - Roof by extrusion
+        - Pick a plane in elevation
+        - Create open shape
+    - Attach wall
+        - Select wall - modify - attach
+    - Modify - join/unjoin roof
+- Add ceiling
+    - Ceiling plan - ceiling - automatic ceiling
+    - Ceiling pattern can be modified
+    - Component - lighting
+        - Lighting need ceiling host
+- Add opening
+    - Shaft opening
+        - Can through floors
+    - Domer opening
+        - Pick roof/wall edges
+- Add staircase
+    - Stair by component
+    - Stair by sketch
+    - Railing
+        - Offset
+        - If not continuous
+            - Modify staircase landing to allow more room
+        - Extension to rail
+            - Edit type property - top rail - check type
+            - Project browser - family - railings - duplicate - type property
+            - Change top rail type to the new one 
+    - Modify
+        - Flip direction
+        - Temp dimension
+            - Dot to change both on vertical and horizontal
+            - Arrow to shorten or extend

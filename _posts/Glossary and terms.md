@@ -1,0 +1,287 @@
+﻿---
+title: Glossary and terms
+date: 2022-06-10
+update: 2022-06-20
+categories:
+- Study notes
+tags: Glossary
+description: 
+---
+
+- prop - 支柱
+- stanchion - column - pier
+- pendentive - 穹隅
+- asbestos - 石棉
+- chamfer - 倒角
+- buttresse - 垛，扶壁
+- timmer - a timber or metal beam (joist) to create an opening
+- lintel - 过梁
+- jamb - 门框
+- bead - a narrow, half-round molding that runs the length of siding
+- pitch - 沥青
+- strata - 地基
+- racking pile - 斜樁
+- crane boom - 起重机臂
+- bore - 钻孔
+- auger - 螺旋钻
+- helix - 螺旋
+- underpinning - process of strengthening the foundation of an existing building or other structure
+- subsidence - 沉降
+- ram - 夯实
+- resin - 树脂
+- settlement - downward moement of groud caused by consolidating
+- consolidate - 巩固
+- bit - 钻头
+- cellar - 地窖
+- geothermal - 地热
+- hydraulic - 液压
+- auger - 螺旋钻
+- flame cutter - 火焰切割机
+- grinder - cut-off wheel, 磨床
+- sedimentary - 沉积
+- gravel - 砾石
+- silt - 淤泥
+- granular soil - 粒状土
+- on-grade slab = float slab foundation: slab serves as the foundation
+- substantial - 重大的
+- floor plank - 地板块
+- 出餅仔 - 拉柱頭 - 批盪（泥水批蕩點綫面，乾后下一步驟）
+- wall sweep - 墙饰条
+- ingress - 入口
+- ram - 撞击
+- offset - 边角料
+- strutting and shoring - 支撑
+- piling rig - 打桩机
+- pitch - 沥青，投
+- raking pile - piles installed at an angle to the vertical
+- intermittent - 断断续续的
+- dolly - 移动
+- grub - 挖掘
+- heap - 堆，累积
+- plank - 铺板
+- oversite - 现场
+- post hole - 柱孔
+- planking - 铺板
+- heap - 堆
+- gravel - 碎石，沙砾
+- granular - 粒状
+- turf - 草皮
+- consolidate - 合并
+- herbicide - 除草剂
+- mulch - 护根
+- coping - covering the exposed top of the roof or wall with a layer of stone, bricks, terracotta, or concrete
+- crank - 曲柄
+- pilaster - 壁柱
+- dissent - 异议
+- endorsement - 支持
+- annex - 附属
+- ancillary to - 附属
+- peril - 危险
+- apparatus - 仪器 
+- expeditiously - 迅速
+- construe - 解释
+- divergence - 差异
+- cable lug - 電纜接綫片
+- cable gland - 電纜接頭
+- 4/C - 4 conductors in one wire 四芯
+- XLPE - cable material 高溫抗變形
+- cooker switch - 燈曲掣(>20A)
+- coil - 线圈
+- substation - 变电站
+- deenergize - 断电
+- siren - 警笛
+- latch - 锁上
+- apparatus - 仪器，器械
+- electrode - 电极
+- inverter - convrt direct current into alternating current
+- tinned - 镀锡的
+- miniature - 微型
+- diode - 二极管
+- lamp holder - 灯具支架
+- ceiling rose - a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended
+- cord - 绳索
+- lampshade - 灯罩
+- crimp - 压接
+- conbustible - 易燃
+- thermosetting - 热固性
+- sheath - 鞘，套
+- cleat - 夹板
+- braid - 编织
+- coupler - 耦合器
+- locknut - 锁紧螺母
+- corrugated structure - 波纹结构
+- kink - 纠缠
+- impendance - 阻抗
+- exponent - 指数
+- fraction - 分数
+- circumference - 圆周
+- quotient - 商
+- product - 乘积
+- factor - 因数
+- intercept - 截距
+- parentheses - 括号
+- quadratic - 二次方
+- polynomial - 多项式
+- monomial - 单项式
+- Pythagorean theorem - 勾股定理
+- numerator - 分子
+- denominator - 分母
+- root index - 根指数
+- squared - 被开方数
+- ellipsis - 省略号
+- vector - 向量
+- integral - 积分
+- integrand - 被积表达式
+- product - 累乘
+- union - 并集
+- / - slash
+- * - asterisk
+- `# - harsh
+- modulus - 余数
+- \ - backslash
+- tragonometric - 三角函数
+- skew - 偏斜
+- inference - 推理
+- quotient - 商
+- binary - 二进制
+- decimal - 十进制
+- octal - 八进制
+- hex - 十六进制
+- insection - 交集
+- union - 并集
+- asymptote - 渐近线
+- oscillation - 振荡
+- parabola - 抛物线
+- algebraic - 代数
+- recursion - 递归
+- bivariate - 双变量
+- intercept - 截距
+- derivative - 导数
+- secant line - 割线
+- differentiable - 可微分的
+- polynomial - 多项式
+- ln - natural log
+- rational number - 有理数
+- amenity - 便利设施
+- topography - 地形地势
+- contour of land - 地形轮廓线
+- right of way - eligibility to pass another land
+- plateu - 高原
+- curtilage - 宅邸
+- abutment - 邻接
+- conoid - 圆锥形
+- hemispherical - 半球形
+- curvature - 曲率
+- hyperbolic - 双曲线
+- paraboloid - 抛物面
+- pyramid - 金字塔
+- incidental - 偶然的
+- hereof - 关于此点
+- amplification - 放大
+- thereto - 至此
+- shrub - 灌木
+- cartage - 运输
+- percolate - 过滤
+- divert - 转移
+- discretion - 慎重，审慎
+- wedge - 楔
+- cramp - 夹子，抽筋
+- datum - 基准
+- stagger - 交错，错开
+- i.e. - that is
+- lean - 倾斜
+- cohesive - 有凝聚力的
+- prevail - 占上风
+- prevailing - 优势，盛行的
+- boulder - 巨石
+- cavity - 空穴
+- secant - 割线
+- rotary - 旋转的，轮流的
+- longitudinal -纵向
+- axis - 轴
+- lieu - 场地
+- stiff - 僵硬
+- dissipation - 消散
+- pore - 孔隙
+- buoyancy force - 浮力
+- ellipse - 椭圆
+- prompt - 提示
+- distilled water - 蒸馏水
+- preclude - 排除，避免
+- extraneous - 无关
+- sustain - 持续
+- discriminate - 区别
+- segregate - 分离
+- ancillary - 补充的，辅助的
+- segregation - 隔离
+- vicinity - 附近
+- intruder - 入侵者
+- deterrent - 威慑
+- monochrome - 单色
+- impair - 妨碍，削弱
+- batten - 板条
+- prismatic - 棱柱形
+- surpersede - 取代
+- rotary - 旋转
+- photovoltaics - 光伏
+- indent - 缩进
+- aerial - 天线
+- prompt - 提示
+- truncate - 截短
+- : - colon 冒号
+- mascot - 吉祥物
+- toggle - 切换
+- discard - 丢弃
+- immutable - 不可变
+- prefix - 字首
+- exclamation point - !
+- interpolation - 插值
+- versatile - 多才多艺的
+- swab - 擦
+- burr - 毛刺
+- reamer - 铰刀
+- dislodge - 驱逐
+- lodge - 小屋
+- brittle - 脆
+- lattice -柵格
+- grommet - 索环
+- arbitrary - 任意
+- collision - 碰撞
+- intuition - 直觉
+- compile - 编译
+- cache - 缓存
+- peculiar - 奇特的
+- comtemplate - 沉思
+- reconcile - 调和
+- intricate - 错综复杂
+- concerted - 一致的
+- indispendable - 必不可少的
+- consortium - 财团
+- franchise - 专营权
+- impartial - 公正的
+- bid rigging - 围标
+- collusion - 共谋
+- adjudicate - 裁定，判决
+- pertinent - 相关的
+- reconciliation - 和解
+- inception - 开始
+- infancy - 婴儿期
+- vegatation - 植被
+- stump - 树桩
+- turf - 草皮
+- hindrance - 阻碍
+- divulge - 泄露
+- taper - 锥体
+- rebated - 折
+- groove - 槽
+- chamfer - 倒角
+- nessesitate - 必要
+- amplify - 放大
+- vitiate - 败坏
+- comtemplated - 考虑的
+- vicarious - 替代的
+- subsidence - 沉降
+- heave - 起伏
+- subrogation - 代位权
+- aggregate - 总计的
+- reinstatement - 复原
