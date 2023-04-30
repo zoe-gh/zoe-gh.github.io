@@ -5,6 +5,7 @@ categories:
 - QS
 tags:
 - Building Contract
+toc: true
 ---
 
 # The General Conditions

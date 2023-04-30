@@ -5,6 +5,7 @@ categories:
 - Tools
 tags: 
 - Website
+toc: true
 ---
 
 ## Download PicGo

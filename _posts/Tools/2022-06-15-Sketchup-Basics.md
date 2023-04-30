@@ -5,6 +5,7 @@ categories:
 - Tools
 tags: 
 - SketchUp
+toc: true
 ---
 
 ## Setting and basics

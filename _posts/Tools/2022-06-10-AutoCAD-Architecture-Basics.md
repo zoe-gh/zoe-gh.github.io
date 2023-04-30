@@ -5,6 +5,7 @@ categories:
 - Tools
 tags: 
 - ACA
+toc: true
 ---
 
 ## Why AutoCAD Architecture

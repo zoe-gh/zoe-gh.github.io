@@ -3,7 +3,9 @@ title: Python Basics
 last_modified_at: 2022-07-16
 categories:
 - CS
-tags: Python
+tags: 
+- Python
+toc: true
 ---
 
 ## Python foundamentals

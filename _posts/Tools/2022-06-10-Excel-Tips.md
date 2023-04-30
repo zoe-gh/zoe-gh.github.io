@@ -5,6 +5,7 @@ categories:
 - Tools
 tags: 
 - Excel
+toc: true
 ---
 
 ## Shortcut

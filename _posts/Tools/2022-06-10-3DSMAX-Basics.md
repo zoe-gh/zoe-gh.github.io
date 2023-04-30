@@ -5,6 +5,7 @@ categories:
 - Tools
 tags: 
 - 3DSMAX
+toc: true
 ---
 
 ## Operations

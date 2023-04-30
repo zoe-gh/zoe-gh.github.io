@@ -5,6 +5,7 @@ categories:
 - Tools
 tags: 
 - Markdown
+toc: true
 ---
 
 ## Code

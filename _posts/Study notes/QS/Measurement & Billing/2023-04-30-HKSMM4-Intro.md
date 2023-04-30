@@ -5,6 +5,7 @@ categories:
 - QS
 tags:
 - Measurement & Billing
+toc: true
 ---
 
 # Hong Kong Standard Method of Measurement of Building Works - Fourth Edition (2005)
