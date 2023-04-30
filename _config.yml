@@ -101,3 +101,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+kramdown:
+  toc_levels: 1..4
