@@ -60,11 +60,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Good good study, day day up."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://zoe-gh.github.io/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-link"
       url: "mailto:mmmosquitooo@gmail.com"
     # - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
